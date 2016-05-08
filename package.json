@@ -1,0 +1,22 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "npm 测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinzis/npm-test.git"
+  },
+  "keywords": [
+    "jinxin-npm-test"
+  ],
+  "author": "jinxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinzis/npm-test/issues"
+  },
+  "homepage": "https://github.com/jinzis/npm-test#readme"
+}
